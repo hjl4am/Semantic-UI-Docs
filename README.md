@@ -1,3 +1,4 @@
+![沙漠中的岩石图片](https://markdown.com.cn/assets/img/philly-magic-garden.9c0b4415.jpg "Shiprock")
 # Semantic Docs
 
 This folder contains the templates used to generate the static website for [semantic-ui.com](http://www.semantic-ui.com). 
